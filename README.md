@@ -1,0 +1,1 @@
+Repositório Monorepo onde ficarão os códigos backend, mobile e frontend do App do evento da Rocketseat RSXP. Lembrando que este repo NÃO SERÁ UMA CÓPIA FIÉL do que será realizado pelos membros da Rocketseat. Irei criei features novas e com um design e style guide diferentes.
